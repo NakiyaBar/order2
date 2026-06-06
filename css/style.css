@@ -10,7 +10,6 @@ body {
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
-    filter: hue-rotate(250deg);
 }
 
 .hidden {
