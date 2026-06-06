@@ -2,16 +2,14 @@
  * NAKIYA BAR オーダーシート用 スタイルシート
  * ポップアップ中央表示・見やすさ改善版
  */
-
-/* --- 基本設定 --- */
 body {
-font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     padding: 15px;
-　　background-size: cover;
+    background-image: url("../images/background.png");
+    background-color: #2b0f12; 
+    background-size: cover;
     background-attachment: fixed;
     margin: 0;
-    background-image: url("../images/background2.png");
-    background-color: #2b0f12; 
     filter: hue-rotate(250deg);
 }
 
